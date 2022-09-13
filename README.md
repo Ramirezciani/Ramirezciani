@@ -1,23 +1,24 @@
-  ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h1 align="center">Hi 👋, I'm Paulo Ramirez</h1>
+<h3 align="center">Analista Programador / Ingeniero en Prevención De Riesgos </h3>
 
-    <a href="https://www.linkedin.com/in/darshan-j-236793121/">
-      <img align="left" alt="Darshan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-    </a>
-    <a href="https://github.com/darshan-jain">
-      <img align="left" alt="Darshan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-    </a>
-    <a href="https://t.me/darshanjain01">
-      <img align="left" alt="Darshan's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-    </a>
-    <a href="https://medium.com/@darshanjain_5991">
-      <img align="left" alt="Darshan's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-    </a>
-    
-    <br />
-    <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-    
-    ### I am Paulo Ramirez
-    - A Full-Stack Developer & Open Source enthusiast.
-    - A Computer Engineering Undergraduate Student. 
-    - Currently working on some of my cool side projects based on Web Development and Blockchain.
-    - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- 🔭 I’m currently working on **RedPark SPA**
+
+- 🌱 I’m currently learning **Js, Django, Java, Html, Css, Python, SQL**
+
+- 🤝 I’m looking for help with **JavaScript**
+
+- 📫 How to reach me **paulo.ramirez@redpark.cl or pau.ramirez@duocuc.cl**
+
+- 📄 Know about my experiences **https://www.linkedin.com/in/pauloramirezc/**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/pauloramirezc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pauloramirezc" height="30" width="40" /></a>
+ 
+  
+<h3 align="left">Languages</h3>
+
+
+<h3 align="left">Tools:</h3>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
