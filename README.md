@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/pauloramirezc/**
 
-- 🛄 Personal Page (In progress) **https://ramirezciani.github.io/**
+- 🛄 Personal Page **https://ramirezciani.github.io/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
