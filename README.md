@@ -24,7 +24,8 @@
 
 
 <h3 align="left">Tools:</h3>
-<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/bootstrap.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/ionic.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/office/344/database.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/oracle-logo.png" alt="" width="40" height="40"/><img src="https://iconos8.es/icon/38389/git" alt="django" width="40" height="40"/></p>
+<p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/bootstrap.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/ionic.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/office/344/database.png" alt="django" width="40" height="40"/><img src="https://img.icons8.com/color/344/oracle-logo.png" alt="" width="40" height="40"/><img src="![image](https://user-images.githubusercontent.com/90012935/218100227-0878c760-d0b4-47cd-9876-078961d4c7d0.png)
+" alt="git" width="40" height="40"/></p>
 
 <h4 align="left">Learning new technologies</h4>
 <p><img src="https://img.icons8.com/color/344/amazon-web-services.png" alt="aws" width="40" height="40"</p>
