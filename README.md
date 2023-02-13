@@ -1,4 +1,5 @@
-![pr](https://user-images.githubusercontent.com/90012935/218480147-9ed4853b-e0a3-45c6-a801-fe1236a7e971.gif)
+
+![pr](https://user-images.githubusercontent.com/90012935/218481978-087a3209-7a52-4709-b728-5c488db4928a.gif)
 
 
 <h1 align="center">Hi 👋, I'm Paulo Ramirez</h1>
