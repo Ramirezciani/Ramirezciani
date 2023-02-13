@@ -1,3 +1,6 @@
+![pr](https://user-images.githubusercontent.com/90012935/218480147-9ed4853b-e0a3-45c6-a801-fe1236a7e971.gif)
+
+
 <h1 align="center">Hi 👋, I'm Paulo Ramirez</h1>
 <h3 align="center">Analista Programador / Ingeniero en Prevención De Riesgos </h3>
 
