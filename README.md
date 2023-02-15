@@ -1,4 +1,4 @@
-![Paulo Ramirez](https://user-images.githubusercontent.com/90012935/218483610-ec0e3f0e-5b88-4797-a6eb-19c49dd12d79.gif)
+
 
 
 
