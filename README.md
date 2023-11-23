@@ -6,19 +6,19 @@
 <h1 align="center">Hi 👋, I'm Paulo Ramirez</h1>
 <h3 align="center">Analista Programador / Ingeniero en Prevención De Riesgos </h3>
 
-- 🏋🏽 I’m currently working on **RedPark SPA**
+- 🏋🏽 I’m currently working on **Undurraga TI**
 
 - 🌱 I’m currently learning **Js, Django, Java, Html, Css, Python, SQL**
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 📫 How to reach me **paulo.ramirez@redpark.cl or pau.ramirez@duocuc.cl**
+- 📫 How to reach me **pa.ramireziciani@gmail.com**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/pauloramirezc/**
 
 - 🛄 Personal Page **https://ramirezciani.github.io/**
 
-- Currently working at Enred geo and Undurraga TI 
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
