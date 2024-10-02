@@ -26,4 +26,4 @@
 
 ## ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezciani&theme=nightowl_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezciani&theme=dark&show_icons=true)
