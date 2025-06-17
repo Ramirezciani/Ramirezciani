@@ -9,8 +9,8 @@
 
 ### 🧑‍💼 Sobre mí
 
-- 🔭 Actualmente trabajando como **Fullstack Developer Freelance**
-- 💬 ¿Quieres conversar? Escríbeme: **ramirezciani.dev@gmail.com**
+- 🔭 Actualmente trabajando como **Fullstack Developer** en **Pacific Network**
+- 💬 ¿Quieres conversar? Escríbeme: **pa.ramirezciani13@gmail.com**
 - 🧠 En constante aprendizaje: nuevas tecnologías, buenas prácticas y arquitectura escalable
 - 🧩 Me apasiona convertir ideas en soluciones funcionales y robustas
 
