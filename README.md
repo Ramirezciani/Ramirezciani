@@ -97,34 +97,4 @@
 
   > 🔎 Casos de uso y detalle técnico en el **[portfolio](https://portfolio2024-iota-swart.vercel.app/)**.
 
-Doing… (1m 11s · ↓ 5.0k tokens)
-Tip: Use /btw to ask a quick side question without interrupting Claude's current work
-**[portfolio](https://portfolio2024-iota-swart.vercel.app/)**.
 
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ramirezciani&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=6C63FF&icon_color=6C63FF&text_color=9F9F9F&bg_color=00000000" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezciani&layout=compact&hide_border=true&langs_count=8&title_color=6C63FF&text_color=9F9F9F&bg_color=00000000" alt="Top languages"/>
-
-<br/>
-  ---
-
-  ## 📊 GitHub
-
-  <div align="center">
-
-  Qué cambié
-
-  Correcciones
-  - </div> huérfano al final del original: eliminado.
-  - \& escapados en la URL del typing SVG → &, si no los parámetros (weight, size, color…) se ignoran.
-  - Agregué alt a todas las imágenes.
-
-  Portfolio
-  - Badge violeta (#6C63FF, mismo color del typing SVG) en primera posición de los links.
-  - Campo portfolio en el objeto paulo.
-  - CTA al cierre + link en "Currently building".
