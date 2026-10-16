@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="878" viewBox="0 0 840 878">
+  <style>
+    svg { font: 15px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+    .card { fill: #f6f8fa; stroke: #d0d7de; }
+    .t { fill: #1f2328; } .m { fill: #656d76; } .a { fill: #4b44d6; } .g { fill: #1a7f37; }
+    .r { fill: #cf222e; } .y { fill: #9a6700; } .cursor { fill: #4b44d6; animation: blink 1.1s steps(1) infinite; }
+    @keyframes blink { 50% { opacity: 0; } }
+    @media (prefers-color-scheme: dark) {
+      .card { fill: #161b22; stroke: #30363d; }
+      .t { fill: #e6edf3; } .m { fill: #8b949e; } .a, .cursor { fill: #a5a1ff; } .g { fill: #3fb950; }
+      .r { fill: #ff7b72; } .y { fill: #d29922; }
+    }
+  </style>
+
+  <rect class="card" x="1" y="1" width="838" height="876" rx="12"/>
+  <circle class="r" cx="26" cy="26" r="6"/><circle class="y" cx="46" cy="26" r="6"/><circle class="g" cx="66" cy="26" r="6"/>
+  <text class="m" x="420" y="31" text-anchor="middle" font-size="13">paulo@ramirezciani: ~</text>
+  <line class="card" x1="1" y1="48" x2="839" y2="48"/>
+
+  <g class="t">
+  <text x="32" y="82"><tspan class="g">❯</tspan> whoami</text>
+  <text y="106"><tspan x="32" class="a">Paulo Ramírez Ciani</tspan></text>
+  <text y="130"><tspan x="32" class="t">fullstack developer @ Pacific Network · Chile</tspan></text>
+  <text y="154"><tspan x="32" class="m">focus:</tspan><tspan x="96" class="t">backend systems &amp; automation</tspan></text>
+
+  <text x="32" y="190"><tspan class="g">❯</tspan> cat now.txt</text>
+  <text y="214"><tspan x="32" class="a">→</tspan><tspan x="50" class="t">messaging</tspan><tspan x="178" class="m">queues · retries · rate limits</tspan></text>
+  <text y="238"><tspan x="32" class="a">→</tspan><tspan x="50" class="t">automation</tspan><tspan x="178" class="m">idempotent, observable jobs</tspan></text>
+  <text y="262"><tspan x="32" class="a">→</tspan><tspan x="50" class="t">extraction</tspan><tspan x="178" class="m">scrapers that survive source changes</tspan></text>
+
+  <text x="32" y="298"><tspan class="g">❯</tspan> cat mindset.txt</text>
+  <text y="322"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">systems over features</tspan></text>
+  <text y="346"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">scale from day one</tspan></text>
+  <text y="370"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">automation first</tspan></text>
+  <text y="394"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">performance matters</tspan></text>
+
+  <text x="32" y="430"><tspan class="g">❯</tspan> cat how-i-work.txt</text>
+  <text y="454"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">measure on real data before claiming</tspan></text>
+  <text y="478"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">review against a written standard, not taste</tspan></text>
+  <text y="502"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">if I do it twice, it becomes a script</tspan></text>
+  <text y="526"><tspan x="32" class="g">✔</tspan><tspan x="50" class="t">feedback in 3 to 5 numbered points</tspan></text>
+
+  <text x="32" y="562"><tspan class="g">❯</tspan> tree ~/stack</text>
+  <text y="586"><tspan x="32" class="a">~/stack</tspan></text>
+  <text y="610"><tspan x="32" class="m">├──</tspan><tspan x="68" class="t">languages</tspan><tspan x="178" class="m">typescript · javascript · python · sql</tspan></text>
+  <text y="634"><tspan x="32" class="m">├──</tspan><tspan x="68" class="t">backend</tspan><tspan x="178" class="m">node.js · nestjs · express · redis</tspan></text>
+  <text y="658"><tspan x="32" class="m">├──</tspan><tspan x="68" class="t">frontend</tspan><tspan x="178" class="m">react · next.js · tailwind</tspan></text>
+  <text y="682"><tspan x="32" class="m">└──</tspan><tspan x="68" class="t">data+infra</tspan><tspan x="178" class="m">postgresql · mongodb · docker · aws · git</tspan></text>
+
+  <text x="32" y="718"><tspan class="g">❯</tspan> ./contact --list</text>
+  <text y="742"><tspan x="32" class="t">portfolio</tspan><tspan x="132" class="a">portfolio2024-iota-swart.vercel.app</tspan></text>
+  <text y="766"><tspan x="32" class="t">linkedin</tspan><tspan x="132" class="a">linkedin.com/in/ramirezciani</tspan></text>
+  <text y="790"><tspan x="32" class="t">github</tspan><tspan x="132" class="a">github.com/ramirezciani</tspan></text>
+  <text y="814"><tspan x="32" class="t">email</tspan><tspan x="132" class="a">pa.ramirezciani13@gmail.com</tspan></text>
+
+  <text x="32" y="850" class="g">❯</text>
+  <rect class="cursor" x="50" y="836" width="9" height="18"/>
+  </g>
+</svg>
