@@ -1,20 +1,16 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=A5A1FF&vCenter=true&width=560&height=50&lines=Paulo+Ram%C3%ADrez+Ciani;Backend+%C2%B7+Automation+%C2%B7+Data;Systems+that+run+unattended">
-  <img alt="Paulo Ramírez Ciani" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1500&color=4B44D6&vCenter=true&width=560&height=50&lines=Paulo+Ram%C3%ADrez+Ciani;Backend+%C2%B7+Automation+%C2%B7+Data;Systems+that+run+unattended">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Paulo Ramírez Ciani · backend & automation developer · Chile" src="./assets/header-light.svg" width="100%">
 </picture>
-
-Backend & automation developer from Chile 🇨🇱. I build systems that run without me watching them.
 
 [![Portfolio](https://img.shields.io/badge/portfolio-↗-6C63FF?style=flat-square)](https://portfolio2024-iota-swart.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-↗-0A66C2?style=flat-square)](https://www.linkedin.com/in/ramirezciani/)
 [![Email](https://img.shields.io/badge/email-↗-D14836?style=flat-square)](mailto:pa.ramirezciani13@gmail.com)
 
-```console
-$ paulo --now
-✔ messaging     queues · retries · rate-limit control
-✔ automation    manual processes → idempotent, observable jobs
-✔ extraction    scrapers & ETL that survive source changes
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
+  <img alt="sources → extract → queue → workers → delivered" src="./assets/pipeline-light.svg" width="100%">
+</picture>
 
 ### How I work
 
