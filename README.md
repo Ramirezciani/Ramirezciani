@@ -6,26 +6,34 @@
 ```console
 $ whoami
 Paulo Ramírez Ciani
-backend & automation developer · Chile
+fullstack developer @ Pacific Network · Chile
+focus: backend systems & automation
 
 $ cat now.txt
 → messaging      queues · retries · rate limits
 → automation     idempotent, observable jobs
 → extraction     scrapers that survive source changes
 
-$ cat principles.txt
+$ cat mindset.txt
+✔ systems over features
+✔ scale from day one
+✔ automation first
+✔ performance matters
+
+$ cat how-i-work.txt
 ✔ measure on real data before claiming
 ✔ review against a written standard, not taste
 ✔ if I do it twice, it becomes a script
 ✔ feedback in 3 to 5 numbered points
 
-$ ls ~/stack
-typescript  python    sql
-node        nestjs    express   redis
-postgres    mongodb   docker    aws
-react       nextjs
+$ tree ~/stack
+~/stack
+├── languages   typescript · javascript · python · sql
+├── backend     node.js · nestjs · express · redis
+├── frontend    react · next.js · tailwind
+└── data+infra  postgresql · mongodb · docker · aws · git
 
 $ ./contact --list
 ```
 
-[`portfolio ↗`](https://portfolio2024-iota-swart.vercel.app/) &nbsp; [`linkedin ↗`](https://www.linkedin.com/in/ramirezciani/) &nbsp; [`email ↗`](mailto:pa.ramirezciani13@gmail.com)
+[`portfolio ↗`](https://portfolio2024-iota-swart.vercel.app/) &nbsp; [`linkedin ↗`](https://www.linkedin.com/in/ramirezciani/) &nbsp; [`github ↗`](https://github.com/ramirezciani) &nbsp; [`email ↗`](mailto:pa.ramirezciani13@gmail.com)
