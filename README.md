@@ -1,16 +1,21 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Paulo Ramírez Ciani · backend & automation developer · Chile" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=A5A1FF&multiline=true&repeat=false&width=640&height=110&lines=%24+whoami;Paulo+Ram%C3%ADrez+Ciani+%C2%B7+backend+%26+automation+%C2%B7+Chile;%24+cat+now.txt;messaging+%C2%B7+automation+pipelines+%C2%B7+data+extraction">
+  <img alt="Paulo Ramírez Ciani · backend & automation · Chile" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2200&pause=800&color=4B44D6&multiline=true&repeat=false&width=640&height=110&lines=%24+whoami;Paulo+Ram%C3%ADrez+Ciani+%C2%B7+backend+%26+automation+%C2%B7+Chile;%24+cat+now.txt;messaging+%C2%B7+automation+pipelines+%C2%B7+data+extraction">
 </picture>
 
 [![Portfolio](https://img.shields.io/badge/portfolio-↗-6C63FF?style=flat-square)](https://portfolio2024-iota-swart.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-↗-0A66C2?style=flat-square)](https://www.linkedin.com/in/ramirezciani/)
 [![Email](https://img.shields.io/badge/email-↗-D14836?style=flat-square)](mailto:pa.ramirezciani13@gmail.com)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/pipeline-dark.svg">
-  <img alt="sources → extract → queue → workers → delivered" src="./assets/pipeline-light.svg" width="100%">
-</picture>
+### What I build, end to end
+
+```mermaid
+flowchart LR
+  A([sources]) --> B["extract<br/><sub>retries · backoff</sub>"]
+  B --> C["queue<br/><sub>rate-limit aware</sub>"]
+  C --> D["workers<br/><sub>idempotent · observable</sub>"]
+  D --> E([delivered])
+```
 
 ### How I work
 
